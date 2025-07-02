@@ -2,9 +2,9 @@
   <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Kashim<h1>
 <p align="center">
-  <strong>A passionate Software Developer from India, currently diving deep into Spring Boot and JavaFX</strong>
+  <strong>A passionate Software Developer from India, currently diving deep into Data Analytics</strong>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m learning **Spring Boot** and **JavaFX**
-- 👨‍💻 All my projects are available on my [**Portfolio Website**](https://manishrnl.netlify.app/)
-- 💬 Ask me about **Java**, **Spring Boot**, or anything coding-related!
-- 📫 Reach me at **manishrajrnl@gmail.com**
+- 🔭 I’m currently working on **Data Analytics Projects**
+- 🌱 I’m learning **Power BI** and **Python**
+- 👨‍💻 All my projects are available on my [**Github Website**](https://https://github.com/MohammadKashim/)
+- 💬 Ask me about **Python**, **tableu**, or anything coding-related!
+- 📫 Reach me at **mohammadkashim0755@gmail.com**
 
 ---
 
