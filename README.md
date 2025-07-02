@@ -39,7 +39,7 @@
   <a href="https://www.facebook.com/profile.php?id=100011121437261" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60" height="30" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/manish.rnl" style="text-decoration: none; display: inline-block; border-radius: 8px;">
+  <a href="https://instagram.com/iamkashim" style="text-decoration: none; display: inline-block; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="30" alt="Instagram" />
   </a>
 </p>
@@ -49,8 +49,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40" alt="Java" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="40" alt="Spring Boot" />&nbsp;&nbsp;
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" alt="Python" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="40" alt="C" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="40" alt="C++" />&nbsp;&nbsp;
@@ -58,9 +57,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" alt="CSS3" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="40" alt="Git" />&nbsp;&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="40" alt="Git" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="40" alt="Postman" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="40" alt="Linux" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="40" alt="Android" />&nbsp;&nbsp;
@@ -74,13 +71,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadKashim&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MohammadKashim&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrnl&theme=dark&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKashim&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
