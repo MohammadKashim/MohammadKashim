@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://twitter.com/mohammadkashim" style="text-decoration: none; display: inline-block; border-radius: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="30" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" tagret="blank" width="60" height="30" alt="Twitter" />
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/mohammad-kashim-69079230a" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="30" alt="LinkedIn" />
