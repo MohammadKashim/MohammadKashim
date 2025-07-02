@@ -23,7 +23,7 @@
 - 🌱 I’m learning **Power BI** and **Python**
 - 👨‍💻 All my projects are available on my [**Github Website**](https://https://github.com/MohammadKashim/)
 - 💬 Ask me about **Python**, **tableu**, or anything coding-related!
-- 📫 Reach me at **mohammadkashim0755@gmail.com**
+- 📫 Reach me at [**Email**](mohammadkashim0755@gmail.com)
 
 ---
 
