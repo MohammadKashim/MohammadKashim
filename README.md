@@ -23,17 +23,17 @@
 - 🌱 I’m learning **Power BI** and **Python**
 - 👨‍💻 All my projects are available on my [**Github Website**](https://https://github.com/MohammadKashim/)
 - 💬 Ask me about **Python**, **tableu**, or anything coding-related!
-- 📫 Reach me at [**Email**](mohammadkashim0755@gmail.com)
+- 📫 Reach me at **Email** mohammadkashim0755@gmail.com
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/manishrnl" style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://twitter.com/mohammadkashim" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="30" alt="Twitter" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manish-kumar-2846a8145" style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://linkedin.com/in/mohammad-kashim-69079230a" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="30" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/share/16qL39636K/" style="text-decoration: none; display: inline-block; border-radius: 20px;">
